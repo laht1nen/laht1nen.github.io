@@ -1,8 +1,12 @@
+body {
+	background-color: #c8c8c8;
+}
+
 #main {
 	width: 300px;
 	height: 100px;
 	margin: 0 auto;
-	margin-top: 400px;
+	margin-top: 270px;
 	text-align: center;
 }
 
